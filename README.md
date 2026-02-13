@@ -1,7 +1,3 @@
-
-```markdown
-# 🛡️ AST Deobfuscator
-
 <p align="center">
   <b>Advanced Deobfuscation Tool based on AST</b><br>
   <i>Unpacker • Constant Folding • Dynamic Evaluation • Dead Code Removal</i>
@@ -20,7 +16,6 @@
     <img src="https://img.shields.io/badge/Ngôn_Ngữ-Tiếng_Việt-red?style=for-the-badge" alt="Vietnamese">
   </a>
 </p>
-```
 ---
 
 <a name="-english"></a>

@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Ngôn_Ngữ-Tiếng_Việt-red?style=for-the-badge" alt="Vietnamese">
   </a>
 </p>
-</br>
 
 <a name="-english"></a>
 ## 🇬🇧 English
